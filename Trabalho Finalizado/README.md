@@ -1,7 +1,5 @@
 # Montador e Simulador
-Ana Caroline da Rocha Braz - 212008482
-
-Andreza Rodrigues Costa - 180074474
+Ana Caroline da Rocha Braz - 212008482 // Andreza Rodrigues Costa - 180074474
 
 Para este trabalho deve-se implementar um montador e um simulador utilizando o assembly trabalho em sala de aula.
 ____
