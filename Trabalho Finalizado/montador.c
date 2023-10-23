@@ -2,6 +2,10 @@
 // Ana Caroline da Rocha Braz
 // Andreza Rodrigues Costa
 
+//------------------------------------------------------------------------------------
+// AVISO IMPORTANTE
+// LEMBRE-SE SEMPRE DE DEIXAR O ARQUIVO NA MESMA PASTA DO PROGRAMA
+
 // ---------------------------------------------------------------------------------
 // PARA RODAR UTILIZE
 // gcc montador.c -o montador
