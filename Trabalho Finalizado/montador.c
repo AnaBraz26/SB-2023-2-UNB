@@ -8,6 +8,9 @@
 // ./montando [nome_do_arquivo].asm
 
 //--------------------------------------------------------------------------------------
+// Não foi implementado o pre-processamento para as macros
+
+//--------------------------------------------------------------------------------------
 //Bibliotecas
 #include <stdio.h>
 #include <string.h>
